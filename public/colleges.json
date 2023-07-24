@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "name": "University of Knowledge",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNea9PVNr6eDeOUmPyNK5UM8_qi5XzC6rScMIpYs2qJp56177375qb1HTww5Frci1EMHc&usqp=CAU",
+      "admissionDates": "August 15 - September 15",
+      "events": "Freshers' Party, Orientation Day",
+      "researchHistory": "Founded in 1885, producing 50 Nobel laureates.",
+      "sports": "Football, Basketball, Swimming"
+    },
+    {
+      "id": 2,
+      "name": "Tech Institute",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNea9PVNr6eDeOUmPyNK5UM8_qi5XzC6rScMIpYs2qJp56177375qb1HTww5Frci1EMHc&usqp=CAU",
+      "admissionDates": "July 1 - August 30",
+      "events": "Tech Fest, Hackathon",
+      "researchHistory": "Pioneers in AI and Robotics research.",
+      "sports": "Cricket, Table Tennis, Volleyball"
+    },
+    {
+      "id": 3,
+      "name": "Art & Design College",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNea9PVNr6eDeOUmPyNK5UM8_qi5XzC6rScMIpYs2qJp56177375qb1HTww5Frci1EMHc&usqp=CAU",
+      "admissionDates": "March 1 - April 15",
+      "events": "Art Expo, Fashion Show",
+      "researchHistory": "Promoting creativity since 1972.",
+      "sports": "Paintball, Chess"
+    }
+  ]
+  
