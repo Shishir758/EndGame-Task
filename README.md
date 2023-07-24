@@ -1,29 +1,21 @@
-# TAEKWONDO (A Martial Arts Academy)
+# টাস্ক সম্পূর্ন না করার কারণ:
 
-![Logo](./src/assest/logo.png)
+from:	Nurul Alam <studentshishir@gmail.com>
+to:	jp@programminghero.org
+cc:	tarique@programming-hero.com
+date:	Jul 22, 2023, 1:19 AM
+subject:	সময়ের সমস্যা সংক্রান্ত-
+mailed-by:	gmail.com
 
-## Description
 
-The Martial Arts Academy is a client-side web application built using React.js. It provides information about martial arts classes and instructors, allowing users to browse and request new classes. The application features a responsive and user-friendly interface.
 
-## Features
+প্রিয় প্রোগ্রামিং হিরো টিম,
+শুভেচ্ছা জানবেন।আশা করি ভাল আছেন। ‘ সিলেক্টেড ফর ফারদার প্রোসেস - এন্ডগেম’ ই-মেইল পেয়েছি। এ পর্যন্ত অনেক চ্যালেঞ্জের সাথে চ্যালেঞ্জ করে এ পর্যন্ত আপনাদের নির্দেশনায় এসেছি। কিন্তু বর্তমানে আমার ডিগ্রি দ্বিতীয় বর্ষের চূড়ান্ত পরিক্ষা চলছে।
 
-- **Carousel Slider:** Engaging carousel slider showcasing martial arts demonstrations and activities.
-- **Martial Arts Classes:** Display of available classes with details like class name, instructor name, and pricing.
-- **Instructor Profiles:** Profiles of experienced martial arts instructors with contact information.
-- **Class Request Form:** User-friendly form for requesting new martial arts classes.
-- **Light/Dark Theme Toggle:** Toggle button for switching between light and dark modes.
+আগামী ২৩ ও ২৪ জুলাই ইং তারিখে আমার পরিক্ষায় অংশ নিতে হবে এবং উত্তীর্ণ হওয়ার সর্বাধিক চেষ্টা করতে হবে। ২২-২৩ এবং ২৪ জুলাই (পরিক্ষার পূর্ব পর্যন্ত) কোন কিছু নতুন করে পড়ার সুযোগ নাই, কিছুটা রিভিশনের সুযোগ আছে মাত্র। সেই সাথে আমি একটি লিমিটেড কোম্পানীতে কর্মরত। পরিক্ষার তারিখে আমি (ব্যাবস্থাপকের অনুমতি সাপেক্ষে) পরিক্ষা শেষ করে অফিসে যোগ দিয়ে অফিসের কাজ করি।অফিস সময় বিকাল ৫: ০০ টা পর্যন্ত। কিন্তু পরিক্ষার দিনে কাজ শেষ করতে অতিরিক্ত সময় গেলে যেতে পারে।এমতাবস্থায়, আমার পক্ষে প্রদত্ত সময়ের মধ্যে প্রদত্ত টাস্ক জমা দেওয়া সম্ভব হবে না। আপনারদের পরামর্শ এবং সহযোগীতার খুবই প্রয়োজন অনুভব করছি।
 
-## Technologies Used
+আমার রেজিষ্ট্রেশন কার্ড, প্রশেবপত্র এবং পরিক্ষার রুটিন সংযুক্ত করলাম। আমার অফিসের হাজিরা খাতা অফিসে যেয়ে দেওয়া যেতে পারে (যদি প্রয়োজন হয়)।
+আশা রাখি, পরামর্শ এবং সহযোগীতা পাব।
 
-- React.js: JavaScript library for building user interfaces.
-- React Router: Library for client-side routing.
-- AOS: Library for scroll-based animations.
-- React Responsive Carousel: Component for responsive image carousels.
-- React Awesome Revealn: To show animation .
-- react-router-dom: Package for adding routing functionality to React applications.
-- CSS Frameworks: Tailwind CSS for styling components.
-
-## Live website Link
-
-- Website: [Live Site: Click here](https://symphonious-begonia-0a337a.netlify.app/)
+আন্তরিকভাবে
+মো: নূরুল আলম
